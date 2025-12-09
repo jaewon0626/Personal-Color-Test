@@ -40,5 +40,5 @@
 <br>
 <br>
 
-## 모바일 환경 구축
+## 모바일 환경
 <img width="1838" height="674" alt="image" src="https://github.com/user-attachments/assets/ac85d150-4c65-4575-b234-de1407f2ad59" />
