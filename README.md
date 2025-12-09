@@ -16,5 +16,7 @@
 <img width="1805" height="921" alt="image" src="https://github.com/user-attachments/assets/8af3087b-8d26-4bfb-baee-3137ffbe683b" />
 <br>
 
-
-
+### 추천 상품 페이지로 이동
+#### 추천상품 보러가기 클릭시 카테고리 선택 가능
+<img width="1640" height="765" alt="image" src="https://github.com/user-attachments/assets/f9a0d5dd-f545-4e4f-8c54-19d25eba2cb2" />
+<br>
