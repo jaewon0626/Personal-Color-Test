@@ -5,7 +5,7 @@
 ## System Flow Chart
 <img width="1964" height="497" alt="스크린샷 2025-12-09 165234" src="https://github.com/user-attachments/assets/24f78515-31e5-43b8-9657-1992b984512e" />
 
-### 무신사 크롤링 데이터를 가져와서 AWS EC2 환경에서 Python Flask 서버를 구축하여 데이터를 처리하고 AWS와 Ngrok을 통해 웹 크롤링 서비스를 배포
+#### 무신사 크롤링 데이터를 가져와서 AWS EC2 환경에서 Python Flask 서버를 구축하여 데이터를 처리하고 AWS와 Ngrok을 통해 웹 크롤링 서비스를 배포
 <br>
 <br>
 
