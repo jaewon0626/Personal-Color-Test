@@ -22,12 +22,12 @@
 <br>
 
 ### 추천 상품 쇼핑
-####     추천 상품 페이지 내에서 원하는 상품 선택
-####                        ⬇
-#### 무신사 페이지로 상품 보러가기 or 위시리스트 담기
-####                        ⬇
-####             위시리스트를 이메일 전송
-####                        ⬇
-####                   이메일 확인
+#### 1. 추천 상품 페이지 내에서 원하는 상품 선택
+#### 2. 무신사 페이지로 상품 보러가기 or 위시리스트 담기
+#### 3. 위시리스트를 이메일로 전송
 <img width="854" height="464" alt="image" src="https://github.com/user-attachments/assets/ffabe04f-09d4-4f9f-8fc1-188afcaacd29" />
+<br>
+
+### 이메일 확인
+<img width="1907" height="802" alt="image" src="https://github.com/user-attachments/assets/8483284c-57b4-4663-9cca-8e097d735852" />
 <br>
