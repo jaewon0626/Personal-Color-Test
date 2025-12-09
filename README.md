@@ -5,4 +5,12 @@
 ## System Flow Chart
 <img width="1964" height="497" alt="스크린샷 2025-12-09 165234" src="https://github.com/user-attachments/assets/24f78515-31e5-43b8-9657-1992b984512e" />
 
+## 동작 과정
+<img width="1341" height="754" alt="image" src="https://github.com/user-attachments/assets/34a4fb04-0e2d-4120-ade3-fe7cb81c39de" />
+<br>
+
+<img width="1805" height="921" alt="image" src="https://github.com/user-attachments/assets/8af3087b-8d26-4bfb-baee-3137ffbe683b" />
+<br>
+
+
 
