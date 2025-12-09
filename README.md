@@ -31,3 +31,6 @@
 ### 5. 이메일 확인
 <img width="1907" height="802" alt="image" src="https://github.com/user-attachments/assets/8483284c-57b4-4663-9cca-8e097d735852" />
 <br>
+
+## 모바일 환경 구축
+<img width="1838" height="674" alt="image" src="https://github.com/user-attachments/assets/ac85d150-4c65-4575-b234-de1407f2ad59" />
