@@ -17,6 +17,17 @@
 <br>
 
 ### 추천 상품 페이지로 이동
-#### 추천상품 보러가기 클릭시 카테고리 선택 가능
+#### 추천 상품 보러가기 클릭시 카테고리 선택 가능
 <img width="1640" height="765" alt="image" src="https://github.com/user-attachments/assets/f9a0d5dd-f545-4e4f-8c54-19d25eba2cb2" />
+<br>
+
+### 추천 상품 쇼핑
+####     추천 상품 페이지 내에서 원하는 상품 선택
+####                        ⬇
+#### 무신사 페이지로 상품 보러가기 or 위시리스트 담기
+####                        ⬇
+####             위시리스트를 이메일 전송
+####                        ⬇
+####                   이메일 확인
+<img width="854" height="464" alt="image" src="https://github.com/user-attachments/assets/ffabe04f-09d4-4f9f-8fc1-188afcaacd29" />
 <br>
